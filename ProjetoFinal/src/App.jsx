@@ -6,7 +6,7 @@ import './GlobalStyle/globalStyle.scss';
 export default function App() {
 
   return(
-<section>
+  <section>
     <Header />
     <Footer />
     </section>

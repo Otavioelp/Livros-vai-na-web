@@ -11,6 +11,7 @@ import s from './header.module.scss'
 export default function Header() {
     return(
     <BrowserRouter>
+    <section></section>
     <header className={s.header}>
     <section className={s.logo}>
         <img src={LogoLivro} 
